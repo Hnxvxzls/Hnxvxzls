@@ -18,7 +18,7 @@
         Passionate about Linux, <strong>Cybersecurity</strong>, and all things Software Development.
         <br />
         <br />
-        I'm currently a senior in high school aiming for a <strong>B.S. in Computer Science</strong>.
+        I'm currently a senior in high school aiming for a <strong>B.S. in Computer Science or engineering</strong>.
       </p>
     </td>
     <td width="35%" valign="top">
