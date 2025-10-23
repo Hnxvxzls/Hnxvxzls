@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="70%" alt="Header Banner GIF" />
-</div>
-
 <h1 align="center">Hi! I'm Luis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
